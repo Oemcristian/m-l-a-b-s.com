@@ -7,16 +7,16 @@ $title = "mLabs";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Filipe",
+                  "image" => "https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13912896_159472041154462_5560874146251098900_n.jpg?oh=3a6c35356bf39c7365401d7997fad4dc&oe=59F8549B"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "Gizelly",
+                  "image" => "https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/18010523_1012983425498197_5338880774815176557_n.jpg?oh=e6ec90379f59fb16e9e338fc35de1272&oe=59FF013B"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "Cristian",
+                  "image" => "https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/18222212_598878743650726_3536867533783783844_n.jpg?oh=b3385f2e92d8d8cdb18d61db2c902da9&oe=5A01C9E7"
                   ),
         );
 
